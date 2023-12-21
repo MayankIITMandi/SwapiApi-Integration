@@ -79,8 +79,3 @@ Additional Features (Not Implemented Yet)
 Pagination: Allow users to request a specific page of results.
 Advanced Search: Enable more advanced search queries.
 Rate Limiting: Implement rate limiting to prevent abuse.
-Contributing
-If you'd like to contribute to this project, please follow the guidelines in CONTRIBUTING.md.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
